@@ -37,12 +37,9 @@ This personal project analyzes traffic accidents across the United States betwee
 ---
 
 ## 📊 Dashboard Preview
-(Include images)
-- General overview  
-- Time trends  
-- Severity vs. hour  
-- Weather analysis  
-- Geographic hotspots  
+### General Overview
+![Dashboard Overview](images/dashboard_overview.png)
+
 
 ---
 
