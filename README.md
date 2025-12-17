@@ -38,7 +38,7 @@ This personal project analyzes traffic accidents across the United States betwee
 
 ## 📊 Dashboard Preview
 ### General Overview
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](images/dashboard_overview.PNG)
 
 
 ---
