@@ -39,6 +39,8 @@ This personal project analyzes traffic accidents across the United States betwee
 ## 📊 Dashboard Preview
 ### General Overview
 ![Dashboard Overview](images/dashboard_overview.PNG)
+![Analysis Insights](images/analysis_insights.PNG)
+![Los Angeles Analysis](images/la_deep_dive.PNG)
 
 
 ---
